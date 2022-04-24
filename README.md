@@ -6,3 +6,6 @@
   - npm install react-router-dom 
 - Basic commands
   - npm start (start a server)  
+- Create Folders
+  - Components
+  - Pages
