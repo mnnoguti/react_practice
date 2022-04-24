@@ -9,3 +9,8 @@
 - Create Folders
   - Components
   - Pages
+- Local Storage
+  - localStorage.setItem("key", JSON.stringify(array)); //INSERT/SET
+  - let getArray = JSON.parse(localStorage.getItem("key")); //GET
+  - localStorage.removeItem("key"); //REMOVE
+  - localStorage.clear(); //CLEAR
