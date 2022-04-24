@@ -9,6 +9,9 @@
 - Create Folders
   - Components
   - Pages
+- Use state
+  - import { useState } from "react";
+  - const [count, setCount] = useState(0); 
 - Local Storage
   - localStorage.setItem("key", JSON.stringify(array)); //INSERT/SET
   - let getArray = JSON.parse(localStorage.getItem("key")); //GET
