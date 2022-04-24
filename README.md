@@ -1,6 +1,4 @@
-# react_practice
-## React - Personal Guidance
----
+# React - Personal Guidance
 - Command to install
   - npx create-react-app <file_name>
 - Libraries
